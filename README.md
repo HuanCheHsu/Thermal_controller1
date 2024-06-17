@@ -1,4 +1,4 @@
-# Thermal_controller1
+## Thermal_controller1
 
 General Goals
   Develop a Smart Home Controller integrating sensors and actuators from different vendors using Java Interfaces provided by the SSDCS.
